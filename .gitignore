@@ -15,4 +15,4 @@
 .DS_Store
 
 # Avoid pushing design folder
-design/
+design
